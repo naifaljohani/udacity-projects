@@ -129,3 +129,15 @@ python scripts/make_estimator_gif.py .
 # for motion planning, unzip 3D_Motion_Planning/home/FCND-Motion-Planning.zip first
 python scripts/make_motion_planning_gifs.py <path-to>/FCND-Motion-Planning .
 ```
+
+## License
+
+My own code, write-ups and animation scripts in this repo are released under the [MIT License](LICENSE).
+
+> **Note:** these projects build on material that Udacity provides as part of the FCND program, such as:
+> - the starter code and C++ framework around `QuadControl.cpp` and `QuadEstimatorEKF.cpp`
+> - the `FCND-Motion-Planning` starter files
+> - the FCND Unity simulator build
+> - the `udacidrone` library
+>
+> Those parts belong to Udacity and remain under Udacity's own terms. The MIT license above covers only my own work.
